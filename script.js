@@ -35,4 +35,26 @@ let mySampleObject = {
 
 let myZooAnimals;
 
+myZooAnimals =  [
+  {
+    "animalType": "Rodent",
+    "name": "Rat",
+    "age": "2 Years",
+    "pictureURL": "images/Rat.webp"
+  },
+  {
+    "animalType": "Mammal",
+    "name": "Whale",
+    "age": "10 years",
+    "pictureURL": "images/Whale.webp"
+  },
+  {
+    "animalType": "Bird",
+    "name": "Peaock",
+    "age": "5 years",
+    "pictureURL": "images/Peacock.jpg"
+  }
+]
+console.log(myZooAnimals);
+
 //END OF ASSIGNMENT
